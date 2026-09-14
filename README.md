@@ -61,7 +61,7 @@ playerctl -p osu_lazer metadata
 
 ## 🙏 Credits
 
-- **[tosu](https://github.com/Kotori/tosu)** by Kotori & contributors for providing the local HTTP/WebSocket API for osu!lazer.
+- **[tosu](https://github.com/tosuapp/tosu)** by Kotori & contributors for providing the local HTTP/WebSocket API for osu!lazer.
 
 ---
 
